@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, National University of the South, 2018
+* M.S. in Economics (candidate), University of San Andrés, 2023
+# * Ph.D hopefully, accepting University offers, (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2012-2018: Research Assistant
+  * National University of the South
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor German H. Gonzalez
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2017: Research Assistant
+  * National University of the South
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Alejandro H. Molina
   
 Skills
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* World Triathlon Technical Official, Level 1
