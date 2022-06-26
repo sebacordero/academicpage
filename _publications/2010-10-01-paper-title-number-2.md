@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Efectos medioambientales y Contaminación del Aire. La utilidad de la Matriz Insumo Producto para su análisis"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/2017-07-01-Efectos-Medioambientales-y-Contaminacion-del-Aire
+excerpt: 'This paper is about La utilidad de la Matriz Insumo Producto para su análisis'
+date: 2017-07-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'http://academicpages.github.io/files/ContaminacionAire.pdf'
+citation: 'Cordero, S. and Molina, A. (2017). &quot;Efectos medioambientales y Contaminación del Aire. La utilidad de la Matriz Insumo Producto para su análisis.&quot; <i>Conference: X Jornadas de Economía Crítica (2017) - Sociedad de Economía CríticaAt: Buenos Aires, Argentina</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+En el presente trabajo se muestran problemas y efectos de las actividades productivas en el medioambiente y cómo deberían contribuir al desarrollo sostenible de acuerdo a los objetivos de desarrollo sostenible de Naciones Unidas. Se incluye un modelo básico de entrada y salida, para analizar la generación de diversos agentes contaminantes y su eliminación por medios apropiados. También se trata la contaminación del aire, identificando las formas de optimizar los procesos que reduzcan los niveles de contaminación. El método propuesto se aplica tanto a una nación como a algo tan pequeño como la economía de una sola empresa. Estos cálculos pueden dar respuestas a algunas cuestiones que deben plantearse y responderse antes de encontrar una solución definitiva a los problemas ambientales causados por la tecnología moderna y el crecimiento económico incontrolado. Tal es el caso de la contaminación atmosférica, importante factor de riesgo mundial de enfermedades. Introducido el tema se definen conceptos sobre el tratamiento de las cuestiones medioambientales, se analizan las bases de la economía ambiental de I/O que sustenta a las distintas metodologías y los postulados de Leontief. Finalmente se analizan los fundamentos de una política energética y casos de la contaminación del aire. Finalmente, se presentan reflexiones.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/ContaminacionAire.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Cordero, S. and Molina, A. (2017). "Efectos medioambientales y Contaminación del Aire. La utilidad de la Matriz Insumo Producto para su análisis"; <i>Conference: X Jornadas de Economía Crítica (2017) - Sociedad de Economía CríticaAt: Buenos Aires, Argentina</i>. 1(2).
