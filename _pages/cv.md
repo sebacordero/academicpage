@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Economics, National University of the South, 2018
 * M.S. in Economics (candidate), University of San Andrés, 2023
-# * Ph.D hopefully, accepting University offers, (expected)
+
 
 Work experience
 ======
