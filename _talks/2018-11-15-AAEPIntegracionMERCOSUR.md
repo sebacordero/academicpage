@@ -1,4 +1,3 @@
-
 ---
 title: "Intensidad de la Integración en el MERCOSUR"
 collection: talks
@@ -9,6 +8,6 @@ date: 2018-11-15
 location: "La Plata, Argentina"
 ---
 
-[AAEP](http://www.aaep.org)
+[AAEP](http://www.aaep.org.ar)
 
 This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
