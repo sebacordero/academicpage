@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Gestión y consultaría económica. Administración y análisis financiero. Investigador en el área de economía aplicada, blockchain, economía internacional y desarrollo económico. Gestión deportiva en atletismo y triatlón.
+Gestión y consultoría económica. Administración y análisis financiero. Investigador en el área de economía aplicada, blockchain, economía internacional y desarrollo económico. Gestión deportiva en atletismo y triatlón.
 
 Interesado en nuevas tecnologías, emprendedorismo, filosofía, salud, el rol de la organizaciones de la sociedad civil y el efecto de las políticas económicas en la vida ciudadana.
 
