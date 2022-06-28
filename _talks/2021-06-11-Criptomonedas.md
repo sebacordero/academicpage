@@ -1,9 +1,9 @@
 ---
 title: "Criptomonedas"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2021-06-11-talk-3
-venue: "Universidad Nacional del SUR"
+type: "Conference talk"
+permalink: /talks/2021-06-11-Criptomonedas
+venue: "Universidad Nacional del Sur"
 date: 2021-06-11
 location: "Bahía Blanca, Argentina"
 ---
