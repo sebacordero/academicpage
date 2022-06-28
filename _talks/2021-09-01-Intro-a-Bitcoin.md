@@ -1,10 +1,10 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Introduccion a Bitcoin, Criptomonedas y Blockchain"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/2021-09-01-tutorial-1
 venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
+date: 2021-09-01
 location: "Berkeley CA, USA"
 ---
 
