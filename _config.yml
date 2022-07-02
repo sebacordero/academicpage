@@ -85,7 +85,7 @@ author:
   bio              : "Economist. Financial & Tech Specialist. Crypto."
   location         : "Buenos Aires, Argentina"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=sebastian+cordero"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=9ey8v98AAAAJ"
   email            : 
   researchgate     : "https://www.researchgate.net/profile/Sebastian-Cordero-4"
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        : "seba.cordero"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "sebacordero"
