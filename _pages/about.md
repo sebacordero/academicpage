@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Management and economic consulting. Administration and financial analysis. Researcher in the area of applied economics, blockchain, international economics and economic development. Sports management in athletics and triathlon.
 
-Gestión y consultoría económica. Administración y análisis financiero. Investigador en el área de economía aplicada, blockchain, economía internacional y desarrollo económico. Gestión deportiva en atletismo y triatlón.
+Interested in new technologies, entrepreneurship, philosophy, health, the role of civil organizations and the effect of economic policies on citizen life. Yes, amazed by Bitcoin & blockchain disruption.
 
-Interesado en nuevas tecnologías, emprendedorismo, filosofía, salud, el rol de la organizaciones de la sociedad civil y el efecto de las políticas económicas en la vida ciudadana.
+Professional experience in the fintech / debtech sector as country manager in Argentina for the debt settlement company "Resuelve Tu Deuda". Academic experience as a research professor at the Universidad Nacional del Sur until 2018.
 
-Experiencia profesional en el sector fintech como country manager de Argentina de la reparadora de crédito Resuelve Tu Deuda, y académica como docente investigador en la Universidad Nacional del Sur hasta el 2018.
-
-Enérgico y entusiasta, comprometido con la sociedad y las instituciones democráticas. Curioso por demás y buscador de nuevas visiones en pos de mejorar la calidad de vida. Atleta orientado al triatlón que disfruta jugar al ajedrez.
-
+Energetic and enthusiastic, committed to society and democratic institutions. Curious and seeker of new visions in pursuit of improving the quality of life. Triathlon-oriented athlete who enjoys playing chess.

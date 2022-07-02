@@ -8,10 +8,8 @@ date: 2017-09-07
 location: "Los Polvorines, Buenos Aires, Argentina"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Structure  (in Spanish)
 
-
-Estructura
 1.Introducción
 2.Medioambiente y desarrollo
 3.Economía ambiental de entrada y salida

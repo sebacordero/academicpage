@@ -8,10 +8,9 @@ date: 2021-06-11
 location: "Bahía Blanca, Argentina"
 ---
 
-CHARLA CRIPTOMONEDAS
+Delivered in Spansih, Online by Zoom, also by YouTube live.
 
-Las criptomonedas y la tecnología blockchain cada vez ocupan mas lugar en los principales medios de comunicación. Para muchxs esto implica una revolucion tecnológica y especialmente financiera, para otrxs es una moda pasajera con efectos nocivos para el medioambiente. De la mano de Sebastian Cordero, especialista en finanzas y economía, charlaremos y nos interiorizaremos sobre esta fascinante temática.
+Cryptocurrencies and blockchain technology are increasingly occupying more space in the main media. For many this implies a technological and especially financial revolution, for others it is a passing fad with harmful effects on the environment. As a specialist in finance and economics, I chatted and taught about this fascinating topic.
 
-La charla fue vía zoom el día viernes 11 de junio a las 18 Hs, se entregaron certificados a lxs asistentes.
 
-[Video en YouTube](https://youtu.be/5ihduysMNVc)
+[Video on YouTube](https://youtu.be/5ihduysMNVc)
