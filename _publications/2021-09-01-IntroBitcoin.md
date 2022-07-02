@@ -5,7 +5,7 @@ permalink: /publication/2021-09-01-IntroBitcoin
 excerpt: 'A brief travel to Bitcoin, Blockchain and Cryptocurrencies.'
 date: 2021-09-01
 venue: 'Bitcoin Blockchain'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://sebacordero.github.io/files/paper3.pdf'
 citation: 'Cordero, S. (2021). &quot;Un breve recorrido por Bitcoin, Blockchain y las Criptomonedas.&quot; <i>Bitcoin Blockchain 1</i>.'
 ---
 A brief travel to Bitcoin, Blockchain and Cryptocurrencies.
