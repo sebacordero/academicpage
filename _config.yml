@@ -85,7 +85,7 @@ author:
   bio              : "Economist. Financial & Tech Specialist. Crypto."
   location         : "Buenos Aires, Argentina"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=sebastian+cordero"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=sebastian+cordero"
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=9ey8v98AAAAJ"
   email            : 
   researchgate     : "https://www.researchgate.net/profile/Sebastian-Cordero-4"
