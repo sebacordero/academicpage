@@ -61,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* World Triathlon Technical Official, Level 1
+* Ong Bitcoin Argentina educator
+* Libreria de Satoshi education leader
+* World Triathlon Technical Official, Level 2
