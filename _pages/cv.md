@@ -35,8 +35,11 @@ Skills
   * Excel, Numbers and spreadsheets
   * Word, Pages and Docs
   * Powerpojnt, Keynote and Slides
-* Data Analysisis
-* GitHub
+* Technology
+  * Linux
+  * GitHub
+  * Bitcoin
+  * Lightning Network
 
 Publications
 ======
